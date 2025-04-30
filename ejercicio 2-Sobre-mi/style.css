@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 2rem;
+    width: 100vw;
+    height: 100vh;
+    background:linear-gradient(to bottom left, #2c3e50, #bdc3c7);
+}
+
+main {
+    box-sizing: border-box;
+    overflow: visible;
+    width: auto;
+    text-align: center;
+}
+
+
+.fotoPerfil{
+    width: 9.5rem;
+    height: 8rem;
+    border-radius: 40%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, .fotoPerfil{
+    padding-bottom: 1rem;
+}
+
+
+
