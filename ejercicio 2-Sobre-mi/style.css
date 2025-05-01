@@ -32,7 +32,7 @@ a {
     text-decoration: none;
 }
 
-h1, .fotoPerfil{
+h1, .fotoPerfil, p{
     padding-bottom: 1rem;
 }
 
